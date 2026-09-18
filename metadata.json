@@ -1,0 +1,6 @@
+{
+  "name": "IQBOL Restaurant",
+  "description": "IQBOL Oilaviy Restoran — Qarshi shahridagi an'anaviy o'zbek va uyg'ur milliy taomlari, shashliklar va oilaviy mehmondo'stlik maskani.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
